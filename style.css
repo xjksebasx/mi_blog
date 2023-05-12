@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    font-family: arial;
+    font-weight: 300;
+}
+#app{
+    background-color: rgb(232, 239, 21);
+}
+#games{
+    background-color: blue;
+}
+#chatbot{
+    background-color: rgb(255, 0, 0);
+}
+.line{
+    height: 6px;
+    background-color: rgb(31, 201, 34);
+    width: 70px;
+    margin: 8px;
+}
